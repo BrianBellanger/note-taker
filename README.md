@@ -1,6 +1,11 @@
 # note-taker
 App to write and save notes
 
+GitHub published at https://brianbellanger.github.io/note-taker/
+
+GitHub Repo: https://github.com/BrianBellanger/note-taker
+
+
 Table of contents
 =================
 
